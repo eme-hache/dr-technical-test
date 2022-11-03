@@ -1,0 +1,1 @@
+import{j as u}from"./index.58d2a139.js";const n={square:"rounded-2xl",rounded:"rounded-full"},o={small:"w-[52px] h-[52px]",medium:"w-[78px] h-[78px]",large:"w-[99px] h-[99px]"},x=({size:e="small",variant:t="square",background:a,className:r,children:s})=>u("button",{className:`${r} ${n[t]} ${o[e]} flex justify-center items-center`,children:s});export{x as default};
