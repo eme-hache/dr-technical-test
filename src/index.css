@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Sk-Modernist';
+  src: url('./fonts/Sk-Modernist-Regular.otf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sk-Modernist';
+  src: url('./fonts/Sk-Modernist-Bold.otf');
+  font-weight: 700;
+  font-style: normal;
+}
+
+.background {
+  background-image: url('./assets/Gallery/model.svg');
+}
